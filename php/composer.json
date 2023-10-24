@@ -1,0 +1,12 @@
+{
+	"name": "tamken/xxx-sqs-consumer",
+	"autoload": {
+		"psr-4": {
+			"App\\": "src/"
+		}
+	},
+	"require": {
+		"aws/aws-sdk-php": "^3.283",
+		"vlucas/phpdotenv": "^5.5"
+	}
+}
