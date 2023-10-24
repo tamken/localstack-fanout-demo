@@ -1,0 +1,2 @@
+# localstack-fanout-demo
+コンシューマのデモ
